@@ -1,4 +1,4 @@
-**ODK001/ODK001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ODK001/README.md** is a ✨ _special_ ✨ repository because it appears on your GitHub profile.
 
 - 🔭 I’m currently working on a NFT UTILITY website
 - 🌱 I’m new to coding
